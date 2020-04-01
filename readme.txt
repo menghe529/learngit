@@ -7,5 +7,10 @@ I love the world!
 =======
 Hello world!
 >>>>>>> test
+<<<<<<< HEAD
 Creating a new branch 'feature1'
 test1
+=======
+Creating a new branch is quick and simple.
+test
+>>>>>>> master
