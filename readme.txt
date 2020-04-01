@@ -8,4 +8,4 @@ I love the world!
 Hello world!
 >>>>>>> test
 Creating a new branch 'feature1'
-
+test1
